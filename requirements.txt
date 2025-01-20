@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+mysql-connector-python
+python-jose
+bcrypt
+passlib
+python-dotenv
+python-multipart
+pydantic
+pusher
+jose
+pandas
+openpyxl
+pymysql
